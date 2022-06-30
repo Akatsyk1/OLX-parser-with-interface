@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 import time
-import pickle
 from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
 import requests
